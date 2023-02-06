@@ -1,0 +1,8 @@
+C:\Users\gajdan.edit.ilona\source\repos\iskola\rovidforma\bin\Debug\rovidforma.exe.config
+C:\Users\gajdan.edit.ilona\source\repos\iskola\rovidforma\bin\Debug\rovidforma.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\rovidforma\bin\Debug\rovidforma.pdb
+C:\Users\gajdan.edit.ilona\source\repos\iskola\rovidforma\obj\Debug\rovidforma.csproj.AssemblyReference.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\rovidforma\obj\Debug\rovidforma.csproj.SuggestedBindingRedirects.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\rovidforma\obj\Debug\rovidforma.csproj.CoreCompileInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\rovidforma\obj\Debug\rovidforma.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\rovidforma\obj\Debug\rovidforma.pdb
