@@ -1,0 +1,8 @@
+C:\Users\gajdan.edit.ilona\source\repos\iskola\animal\obj\Debug\animal.csproj.AssemblyReference.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\animal\obj\Debug\animal.csproj.SuggestedBindingRedirects.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\animal\obj\Debug\animal.csproj.CoreCompileInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\animal\bin\Debug\animal.exe.config
+C:\Users\gajdan.edit.ilona\source\repos\iskola\animal\bin\Debug\animal.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\animal\bin\Debug\animal.pdb
+C:\Users\gajdan.edit.ilona\source\repos\iskola\animal\obj\Debug\animal.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\animal\obj\Debug\animal.pdb

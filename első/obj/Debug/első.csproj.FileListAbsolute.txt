@@ -1,0 +1,8 @@
+C:\Users\gajdan.edit.ilona\source\repos\iskola\első\bin\Debug\első.exe.config
+C:\Users\gajdan.edit.ilona\source\repos\iskola\első\bin\Debug\első.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\első\bin\Debug\első.pdb
+C:\Users\gajdan.edit.ilona\source\repos\iskola\első\obj\Debug\első.csproj.AssemblyReference.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\első\obj\Debug\első.csproj.SuggestedBindingRedirects.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\első\obj\Debug\első.csproj.CoreCompileInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\első\obj\Debug\első.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\első\obj\Debug\első.pdb
