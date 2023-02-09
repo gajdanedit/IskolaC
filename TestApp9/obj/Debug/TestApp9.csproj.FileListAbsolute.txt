@@ -1,0 +1,8 @@
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp9\obj\Debug\TestApp9.csproj.AssemblyReference.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp9\obj\Debug\TestApp9.csproj.SuggestedBindingRedirects.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp9\obj\Debug\TestApp9.csproj.CoreCompileInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp9\bin\Debug\TestApp9.exe.config
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp9\bin\Debug\TestApp9.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp9\bin\Debug\TestApp9.pdb
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp9\obj\Debug\TestApp9.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp9\obj\Debug\TestApp9.pdb
