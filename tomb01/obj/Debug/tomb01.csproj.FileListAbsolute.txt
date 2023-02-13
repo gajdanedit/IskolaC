@@ -1,0 +1,8 @@
+C:\Users\gajdan.edit.ilona\source\repos\iskola\tomb01\bin\Debug\tomb01.exe.config
+C:\Users\gajdan.edit.ilona\source\repos\iskola\tomb01\bin\Debug\tomb01.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\tomb01\bin\Debug\tomb01.pdb
+C:\Users\gajdan.edit.ilona\source\repos\iskola\tomb01\obj\Debug\tomb01.csproj.AssemblyReference.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\tomb01\obj\Debug\tomb01.csproj.SuggestedBindingRedirects.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\tomb01\obj\Debug\tomb01.csproj.CoreCompileInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\tomb01\obj\Debug\tomb01.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\tomb01\obj\Debug\tomb01.pdb

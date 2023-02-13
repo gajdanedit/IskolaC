@@ -1,0 +1,8 @@
+C:\Users\gajdan.edit.ilona\source\repos\iskola\StringDemo\bin\Debug\StringDemo.exe.config
+C:\Users\gajdan.edit.ilona\source\repos\iskola\StringDemo\bin\Debug\StringDemo.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\StringDemo\bin\Debug\StringDemo.pdb
+C:\Users\gajdan.edit.ilona\source\repos\iskola\StringDemo\obj\Debug\StringDemo.csproj.AssemblyReference.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\StringDemo\obj\Debug\StringDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\StringDemo\obj\Debug\StringDemo.csproj.CoreCompileInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\StringDemo\obj\Debug\StringDemo.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\StringDemo\obj\Debug\StringDemo.pdb
