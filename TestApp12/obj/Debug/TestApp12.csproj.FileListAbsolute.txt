@@ -1,0 +1,8 @@
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp12\bin\Debug\TestApp12.exe.config
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp12\bin\Debug\TestApp12.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp12\bin\Debug\TestApp12.pdb
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp12\obj\Debug\TestApp12.csproj.AssemblyReference.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp12\obj\Debug\TestApp12.csproj.SuggestedBindingRedirects.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp12\obj\Debug\TestApp12.csproj.CoreCompileInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp12\obj\Debug\TestApp12.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\TestApp12\obj\Debug\TestApp12.pdb
