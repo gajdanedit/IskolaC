@@ -1,0 +1,8 @@
+C:\Users\gajdan.edit.ilona\source\repos\iskola\kor\bin\Debug\kor.exe.config
+C:\Users\gajdan.edit.ilona\source\repos\iskola\kor\bin\Debug\kor.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\kor\bin\Debug\kor.pdb
+C:\Users\gajdan.edit.ilona\source\repos\iskola\kor\obj\Debug\kor.csproj.AssemblyReference.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\kor\obj\Debug\kor.csproj.SuggestedBindingRedirects.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\kor\obj\Debug\kor.csproj.CoreCompileInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\iskola\kor\obj\Debug\kor.exe
+C:\Users\gajdan.edit.ilona\source\repos\iskola\kor\obj\Debug\kor.pdb
