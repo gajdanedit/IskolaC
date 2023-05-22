@@ -1,0 +1,8 @@
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\Sajat\obj\Debug\Sajat.csproj.AssemblyReference.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\Sajat\obj\Debug\Sajat.csproj.SuggestedBindingRedirects.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\Sajat\obj\Debug\Sajat.csproj.CoreCompileInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\Sajat\bin\Debug\Sajat.exe.config
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\Sajat\bin\Debug\Sajat.exe
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\Sajat\bin\Debug\Sajat.pdb
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\Sajat\obj\Debug\Sajat.exe
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\Sajat\obj\Debug\Sajat.pdb
