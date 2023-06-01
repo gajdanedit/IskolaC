@@ -1,0 +1,17 @@
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\bin\Debug\net6.0-windows\18.1ugrik.exe
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\bin\Debug\net6.0-windows\18.1ugrik.deps.json
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\bin\Debug\net6.0-windows\18.1ugrik.runtimeconfig.json
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\bin\Debug\net6.0-windows\18.1ugrik.dll
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\bin\Debug\net6.0-windows\18.1ugrik.pdb
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\obj\Debug\net6.0-windows\18.1ugrik.csproj.AssemblyReference.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\obj\Debug\net6.0-windows\_18._1ugrik.Formugratás.resources
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\obj\Debug\net6.0-windows\18.1ugrik.csproj.GenerateResource.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\obj\Debug\net6.0-windows\18.1ugrik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\obj\Debug\net6.0-windows\18.1ugrik.AssemblyInfoInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\obj\Debug\net6.0-windows\18.1ugrik.AssemblyInfo.cs
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\obj\Debug\net6.0-windows\18.1ugrik.csproj.CoreCompileInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\obj\Debug\net6.0-windows\18.1ugrik.dll
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\obj\Debug\net6.0-windows\refint\18.1ugrik.dll
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\obj\Debug\net6.0-windows\18.1ugrik.pdb
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\obj\Debug\net6.0-windows\18.1ugrik.genruntimeconfig.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.1ugrik\obj\Debug\net6.0-windows\ref\18.1ugrik.dll
