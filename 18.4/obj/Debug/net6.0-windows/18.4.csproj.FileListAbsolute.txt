@@ -1,0 +1,17 @@
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\bin\Debug\net6.0-windows\18.4.exe
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\bin\Debug\net6.0-windows\18.4.deps.json
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\bin\Debug\net6.0-windows\18.4.runtimeconfig.json
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\bin\Debug\net6.0-windows\18.4.dll
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\bin\Debug\net6.0-windows\18.4.pdb
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\obj\Debug\net6.0-windows\18.4.csproj.AssemblyReference.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\obj\Debug\net6.0-windows\_18._4.Mozog.resources
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\obj\Debug\net6.0-windows\18.4.csproj.GenerateResource.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\obj\Debug\net6.0-windows\18.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\obj\Debug\net6.0-windows\18.4.AssemblyInfoInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\obj\Debug\net6.0-windows\18.4.AssemblyInfo.cs
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\obj\Debug\net6.0-windows\18.4.csproj.CoreCompileInputs.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\obj\Debug\net6.0-windows\18.4.dll
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\obj\Debug\net6.0-windows\refint\18.4.dll
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\obj\Debug\net6.0-windows\18.4.pdb
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\obj\Debug\net6.0-windows\18.4.genruntimeconfig.cache
+C:\Users\gajdan.edit.ilona\source\repos\nemtudommi\18.4\obj\Debug\net6.0-windows\ref\18.4.dll
